@@ -47,9 +47,13 @@ public class Main
         doubleDifference = doubleOperandA - doubleOperandB;
         System.out.println("The Difference of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleDifference);
 
-        String firstDogName = "Ripple";
-        Boolean amITall = true;
-        int fingerCount = 8;
-        double EIGHT = 88888.88888;
+        int familyKids = 2;
+        boolean rain = false;
+        double gasPrice = 3.12;
+        double EIGHT = 888888888;
+        double shoeSize = 14;
+        int birthMonth = 2;
+        String fullName = "Owen Patrick Geho";
+
     }
 }
